@@ -28,3 +28,11 @@ To convert unstructured sales data into meaningful business intelligence through
 - Delivered a compelling dashboard that supports **data-driven decisions**.
 - Sharpened skills in **data analysis**, **DAX**, and **visual storytelling**.
 - Demonstrated ability to turn raw data into **business insights**.
+
+## Screenshots
+So what here is how my dashboard looks like --
+<img width="773" height="427" alt="image" src="https://github.com/user-attachments/assets/7c58837f-b619-4ba9-abcd-6114c193818d" />
+
+
+
+
